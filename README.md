@@ -79,9 +79,10 @@ Accents+ is free. If it saves you time, you can
 **The picker does nothing.** Check that Accents+ is switched on in System
 Settings, Privacy & Security, Accessibility.
 
-**The picker appears at the top of the screen.** Some apps built on web
-technology do not report where the text cursor is. Accents+ works around this
-where it can and falls back to a predictable position where it cannot.
+**The picker appears at the top of the window.** Some apps draw their own text
+and never tell the system where the cursor is. Accents+ works around this where
+it can, and where it cannot it puts the picker at the top of the window you are
+typing in.
 
 **Something else.** Open an issue and include your macOS version, the app
 version from the About tab, and which app you were typing in.
