@@ -1,0 +1,83 @@
+ACCENTS+ LICENSE
+
+Copyright © 2026 Klemen. All rights reserved.
+
+Accents+ ("the Software") is made available free of charge under the terms
+below. By downloading, installing or using the Software you agree to them.
+If you do not agree, do not use the Software.
+
+1. What you may do
+
+   You may download, install and use the Software on any number of Macs that
+   you own or control, for personal or commercial purposes, free of charge.
+
+2. What you may not do
+
+   You may not sell, rent, lease, sublicense, publish or otherwise
+   redistribute the Software or any part of it, whether or not modified, or
+   bundle it with other software, without written permission from the author.
+
+   You may not modify, translate, adapt, decompile, disassemble or reverse
+   engineer the Software, or otherwise attempt to derive its source code,
+   except to the extent that applicable law expressly permits this despite
+   the present restriction.
+
+   You may not remove, hide or alter any copyright, trademark or other notice
+   in the Software.
+
+3. Ownership
+
+   The Software is licensed, not sold. The author keeps all rights, title and
+   interest in the Software, including all copyright and other intellectual
+   property rights. Nothing in this license gives you any right to the
+   Software other than the limited right of use described in section 1.
+
+4. Updates
+
+   The author may release updates from time to time but is under no
+   obligation to do so. Updates are covered by this license unless they come
+   with their own terms.
+
+5. Privacy
+
+   The Software does not collect, store or transmit any data about you or
+   about what you type. It does not connect to the internet. Your settings are
+   stored only on your own Mac.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. THE AUTHOR DOES NOT
+   WARRANT THAT THE SOFTWARE WILL BE ERROR FREE OR UNINTERRUPTED, OR THAT IT
+   WILL WORK WITH EVERY APPLICATION OR VERSION OF MACOS.
+
+7. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR
+   ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION LOSS OF DATA, LOSS OF
+   TEXT OR INPUT, LOSS OF PROFITS OR BUSINESS INTERRUPTION, ARISING OUT OF
+   THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES.
+
+   Some jurisdictions do not allow the exclusion of certain warranties or the
+   limitation of liability for certain damages. Where that is the case, the
+   above applies only to the extent permitted, and nothing in this license
+   limits any rights you have as a consumer under mandatory law.
+
+8. Termination
+
+   This license ends automatically if you breach any of its terms. On
+   termination you must stop using the Software and delete all copies.
+
+9. Governing law
+
+   This license is governed by the laws of the Netherlands. Any dispute shall
+   be brought before the competent court in the Netherlands, without
+   prejudice to mandatory consumer protection rules that may apply where you
+   live.
+
+10. Contact
+
+   Questions about this license: open an issue at
+   https://github.com/iKiWY/AccentsPlus

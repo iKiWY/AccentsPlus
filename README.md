@@ -69,6 +69,20 @@ Nothing you type is recorded, stored or sent anywhere.
 If the first launch says the app cannot be verified, right click it, choose
 Open, and confirm once. macOS remembers from then on.
 
+## Privacy
+
+Accents+ collects nothing. It reads the keyboard only to notice a held key and
+to type the accent you choose, and all of that happens on your Mac. Nothing you
+type is recorded, stored or sent anywhere, and the app never connects to the
+internet. Your key mappings and settings are kept in your user account on your
+Mac and go away with the app if you delete it.
+
+## License
+
+Accents+ is free to use on as many Macs as you like. Redistributing, selling,
+modifying or reverse engineering it is not permitted. The full terms are in
+[LICENSE.txt](LICENSE.txt), which is also included in the download.
+
 ## Support
 
 Accents+ is free. If it saves you time, you can
@@ -86,3 +100,7 @@ typing in.
 
 **Something else.** Open an issue and include your macOS version, the app
 version from the About tab, and which app you were typing in.
+
+---
+
+© 2026 Klemen
